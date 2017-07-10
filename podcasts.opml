@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+    <head>
+        <title>gPodder subscriptions</title>
+        <dateCreated>Tue, 04 Jul 2017 22:32:04 +0200</dateCreated>
+    </head>
+    <body>
+        <outline text="Подкаст о программировании, IT и смежных темах" title="DevZen Podcast" type="rss" xmlUrl="http://devzen.ru/feed/"/>
+        <outline text="Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ." title="Радио-Т" type="rss" xmlUrl="http://feeds.rucast.net/radio-t"/>
+        <outline text="Русскоязычный подкаст о языке Go" title="Подкаст GolangShow" type="rss" xmlUrl="http://golangshow.com/index.xml"/>
+        <outline text="Русскоязычных подкаст, в котором мы рассказываем о DevOps движении и идеях, которые возникли и развиваются в рамках DevOps. Также мы рассказываем о инструментах DevOps инженеров: Docker, Kubernetes, Ansible, облаках, мониторинге, логировании, отказоустойч" title="DevOps Дефлопе подкаст" type="rss" xmlUrl="http://feeds.feedburner.com/devopsdeflope"/>
+        <outline text="Podcast for the leaders in the world of technology" title="CTOcast.com Podcast" type="rss" xmlUrl="https://feeds.feedburner.com/ctocastcom"/>
+        <outline text="" title="The Art Of Programming" type="rss" xmlUrl="http://theartofprogramming.podbean.com/feed/"/>
+        <outline text="Развлекательный IT-подкаст. Еженедельный обзор IT новостей." title="Развлекательный IT-подкаст Радиома" type="rss" xmlUrl="http://feeds.feedburner.com/It-Radioma?format=xml"/>
+        <outline text="Подкаст по DevOps и современный стек. Крайне субъективный и без цензуры. Мы льём в продакшн!" title="Two Devs One Ops" type="rss" xmlUrl="http://feeds.feedburner.com/2d1o"/>
+        <outline text="" title="Студия IT подкастов" type="rss" xmlUrl="http://itpodcasts.com.ua/?feed=rss2"/>
+        <outline text="Русскоязычный подкаст тестировщиков об IT" title="Radio QA" type="rss" xmlUrl="http://radio-qa.com/feed/"/>
+        <outline text="RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле)." title="RWpod - подкаст про мир Ruby и Web технологии" type="rss" xmlUrl="http://feeds.rwpod.com/rwpod"/>
+        <outline text="Software Development podCast" title="SDCast" type="rss" xmlUrl="https://sdcast.ksdaemon.ru/feed/podcast/"/>
+        <outline text="Подкаст о веб-разработке" title="RadioJS" type="rss" xmlUrl="https://radiojs.ru/feed/podcast/"/>
+        <outline text="Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях" title="Frontflip" type="rss" xmlUrl="http://frontflip.me/podcast.xml"/>
+        <outline text="Новости фронтенда за неделю: Алексей Симоненко, О…" title="Веб-стандарты" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss"/>
+        <outline text="Python conversations for passionate developers" title="Talk Python To Me - Python conversations for passionate developers" type="rss" xmlUrl="https://talkpython.fm/episodes/rss"/>
+        <outline text="All JavaScript Shows published by Devchat.tv" title="All JavaScript Podcasts by Devchat.tv" type="rss" xmlUrl="https://feeds.feedwrench.com/JavaScriptJabber.rss"/>
+        <outline text="On The Bike Shed, hosts Derek Prior, Sean Griffin, Amanda Hill, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.." title="The Bike Shed" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/282/rss"/>
+        <outline text="Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people." title="Hanselminutes" type="rss" xmlUrl="http://feeds.podtrac.com/9dPm65vdpLL1"/>
+        <outline text="Information for Software Developers and Architects" title="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio"/>
+        <outline text="Software Engineering Daily" title="Software Engineering Daily" type="rss" xmlUrl="http://softwareengineeringdaily.com/feed/podcast/"/>
+        <outline text="A podcast for developers interested in building great software products." title="Full Stack Radio" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/279/rss"/>
+    </body>
+</opml>
